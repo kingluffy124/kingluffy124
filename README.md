@@ -1,6 +1,6 @@
 <!-- GitHub Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Chanikya5&label=Profile%20Views&color=blueviolet&style=flat" alt="Chanikya5" />
+  <img src="https://komarev.com/ghpvc/?username=kingluffy124&label=Profile%20Views&color=blueviolet&style=flat" alt="kingluffy124" />
 </p>
 
 <!-- Animated Typing SVG Header -->
@@ -30,8 +30,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chanikya5&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanikya5&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kingluffy124&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingluffy124&theme=radical" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanikya5&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingluffy124&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
