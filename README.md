@@ -5,17 +5,17 @@
 
 <!-- Animated Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FF7F7&vCenter=true&center=true&lines=Hi+%F0%9F%91%8B+I'm+G.+Chanikya;AI%2FML+Enthusiast+%7C+Python+Dev;Building+Offline+AI+Chatbot+with+Mistral;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FF7F7&vCenter=true&center=true&lines=Hi+%F0%9F%91%8B+I'm+K+SAI+HARSHA;AI%2FML+Enthusiast+%7C+Python+Dev;Building+Offline+AI+Chatbot;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in CSE (AI & ML) from **NRI Institute of Technology**
-- 🔭 Currently working on: **Offline Chatbot using Mistral, Flask & TTS**
+- 🔭 Currently working on: **Offline Chatbot projects**
 - 🌱 Learning: **Python, AI/ML, React, Open Source, LLMs**
 - 💼 Looking for Internship Opportunities
-- 📫 Reach me: `gattichanikya123@gmail.com`
+- 📫 Reach me: `harshanaidu4854@gmail.com`
 
 ---
 
@@ -47,7 +47,7 @@
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="mailto:gattichanikya123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:harshanaidu4854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Chanikya5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
